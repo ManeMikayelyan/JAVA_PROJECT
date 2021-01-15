@@ -1,0 +1,8 @@
+This project allows you to reserve cinema seats and check whether the person has already 
+reserved the seat or not.
+1.Create a hall
+2.Find out person's name and id
+3.Find out what seat at which row person wants to reserve
+4.Reserve it, if is available. If not, show free setas
+5.By searching algorithms find out the person has already 
+reserved the seat or not.
